@@ -12,6 +12,5 @@ public class App {
                 // Output the result
                  System.out.println("You can buy " + numberOfWings + " chicken wings."); }
         
-    
-    
+   
 }
