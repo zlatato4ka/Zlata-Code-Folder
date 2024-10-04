@@ -10,7 +10,8 @@ public class App {
          // Calculate the number of wings you can buy 
                 int numberOfWings = (int) (totalMoney / wingCost); 
                 // Output the result
-                 System.out.println("You can buy " + numberOfWings + " chicken wings."); }
-        
-   
+                 System.out.println("You can buy " + numberOfWings + " chicken wings."); 
+                 System.out.println( 3 + 3 );
+
+    }
 }
